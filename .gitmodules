@@ -1,0 +1,21 @@
+[submodule "hkexpython"]
+	path = hkexpython
+	url = https://github.com/slygent/hkexpython
+[submodule "hkwantedpython"]
+	path = hkwantedpython
+	url = https://github.com/slygent/hkwantedpython
+[submodule "hkoweatherwarnings"]
+	path = hkoweatherwarnings
+	url = https://github.com/slygent/hkoweatherwarnings
+[submodule "accessgovhk"]
+	path = accessgovhk
+	url = https://github.com/slygent/accessgovhk
+[submodule "hkgovphonedirpython"]
+	path = hkgovphonedirpython
+	url = https://github.com/slygent/hkgovphonedirpython
+[submodule "crhk"]
+	path = crhk
+	url = https://github.com/slygent/crhk
+[submodule "hkjcraces"]
+	path = hkjcraces
+	url = https://github.com/slygent/hkjcraces
