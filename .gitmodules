@@ -19,3 +19,6 @@
 [submodule "hkjcraces"]
 	path = hkjcraces
 	url = https://github.com/slygent/hkjcraces
+[submodule "hkex"]
+	path = hkex
+	url = https://github.com/slygent/hkex
